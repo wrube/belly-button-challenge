@@ -2,6 +2,8 @@ samples.json
 samples.js
 .DS_Store
 
+.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
