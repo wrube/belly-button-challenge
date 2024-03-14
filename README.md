@@ -14,4 +14,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 - [static/js/bonus.js](./static/js/bonus.js): Plotting the gauge for washing frequency 
 - [index.html](./index.html): The master html file
 
+## Deployment on Github
 
+Please see my [deployed website](https://wrube.github.io/belly-button-challenge/).
